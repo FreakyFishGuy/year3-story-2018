@@ -4,7 +4,7 @@
 <p>Along with an alternate ending for one of the short stories</p>
 <p>Author : Dean Poynton </p>
 
-<h2>Current Project Status</h1>
+<h2>Current Project Status</h2>
 
 <p>Not finshed yet</p>
 
