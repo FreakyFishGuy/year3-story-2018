@@ -1,5 +1,6 @@
 # year3-story-2018
 
-# The Story im doing is one im creating myself
+# The following are a set of stories from the first book in the series a song of ice and fire
+#Along with an alternate ending for one of the endings
 
-1. Chapter 1 finished and updated in the reposotory
+1. Completed chapter 1 and 2
