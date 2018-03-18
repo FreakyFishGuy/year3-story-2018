@@ -1,7 +1,7 @@
 # year3-story-2018
 
 # A Game of thrones
-#Along with an alternate ending for one of the short stories
+<p>Along with an alternate ending for one of the short stories</p>
 <p>Author : Dean Poynton </p>
 
 <h1>Current Project Status</h1>
@@ -20,8 +20,7 @@
 <li><a href="https://github.com/FreakyFishGuy/year3-story-2018/issues">Issues</a></li>
 
 
-Git Hub stuff
-https://freakyfishguy.github.io/year3-story-2018
+<h1>Git Hub stuff<h1>
 
 <li><a href="https://github.com/FreakyFishGuy">My Account</a></li>
 <li><a href="https://freakyfishguy.github.io/year3-story-2018">Git Hub Page</a></li>
