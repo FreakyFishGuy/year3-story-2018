@@ -19,3 +19,9 @@
 
 <li><a href="https://github.com/FreakyFishGuy/year3-story-2018/issues">Issues</a></li>
 
+
+Git Hub stuff
+https://freakyfishguy.github.io/year3-story-2018
+
+<li><a href="https://github.com/FreakyFishGuy">My Account</a></li>
+<li><a href="https://freakyfishguy.github.io/year3-story-2018">Git Hub Page</a></li>
