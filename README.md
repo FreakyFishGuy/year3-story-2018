@@ -19,8 +19,11 @@
 
 <li><a href="https://github.com/FreakyFishGuy/year3-story-2018/issues">Issues</a></li>
 
-
-<h2>Git Hub stuff<h1>
+<h2>Git Hub stuff<h2>
 
 <li><a href="https://github.com/FreakyFishGuy">My Account</a></li>
 <li><a href="https://freakyfishguy.github.io/year3-story-2018">Git Hub Page</a></li>
+
+<h2>Version Releases<h2>
+
+<li><a href="https://github.com/FreakyFishGuy/year3-story-2018/releases/tag/V1">Version 1.0</a></li>
