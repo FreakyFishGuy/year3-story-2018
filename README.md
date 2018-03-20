@@ -23,6 +23,7 @@
 
 <li><a href="https://github.com/FreakyFishGuy">My Account</a></li>
 <li><a href="https://freakyfishguy.github.io/year3-story-2018">Git Hub Page</a></li>
+<li><a href="https://github.com/FreakyFishGuy/year3-story-2018">Git Repository---year 3 story</a></li>
 
 <h2>Version Releases</h2>
 
