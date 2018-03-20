@@ -1,4 +1,4 @@
-# year3-story-2018
+# Year3-Story-2018
 
 # A Game of thrones
 <p>
