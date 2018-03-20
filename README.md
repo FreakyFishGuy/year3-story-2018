@@ -1,8 +1,12 @@
 # year3-story-2018
 
 # A Game of thrones
-<p>Along with an alternate ending for one of the short stories</p>
-<p>Author : Dean Poynton </p>
+<p>
+	The following are set of short stories that take place in the world of game of thrones known as weteros.
+	Each chapter will focus on a specific character and they are doing. There will also be an alternate
+	ending for one of the short stories.
+</p>
+<p> Author : <a href="https://github.com/FreakyFishGuy">Dean Poynton</a> </p>
 
 <h2>Current Project Status</h2>
 
