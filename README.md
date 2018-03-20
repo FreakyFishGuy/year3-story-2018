@@ -28,3 +28,5 @@
 <h2>Version Releases</h2>
 
 <li><a href="https://github.com/FreakyFishGuy/year3-story-2018/releases/tag/V1">Version 1.0</a></li>
+<li><a href="https://github.com/FreakyFishGuy/year3-story-2018/releases/tag/V2">Version 2.0</a></li>
+<li><a href="https://github.com/FreakyFishGuy/year3-story-2018/releases/tag/V3">Version 3.0</a></li>
