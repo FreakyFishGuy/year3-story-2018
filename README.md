@@ -10,7 +10,7 @@
 
 <h2>Current Project Status</h2>
 
-<p>Not finshed yet</p>
+<p>Finished</p>
 
 <h2>Chapters</h2>
 
