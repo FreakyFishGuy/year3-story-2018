@@ -17,7 +17,7 @@
 <li><a href="https://freakyfishguy.github.io/year3-story-2018/Chapter1.html">Chapter 1</a></li>
 <li><a href="https://freakyfishguy.github.io/year3-story-2018/Chapter2.html">Chapter 2</a></li>
 <li><a href="https://freakyfishguy.github.io/year3-story-2018/Chapter3.html">Chapter 3</a></li>
-<li><a href="https://freakyfishguy.github.io/year3-story-2018/Alternate Ending.html">Alternate Ending</a></li>
+<li><a href="https://github.com/FreakyFishGuy/year3-story-2018/blob/alternative_ending/Alternate%20Ending.html">Alternate Ending</a></li>
 
 <h2>Issues</h2>
 
